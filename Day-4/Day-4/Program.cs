@@ -7,7 +7,7 @@ using System;
     // Start all downloads parallel
     Task file1 = DownloadFileAsync("File - 1");
     Task file2 = DownloadFileAsync("File - 2");
-    Task file3 = DownloadFileAsync("File - 3");
+    Task file3 = DownloadFileAsync("File - 3"); 
 
     // Wait for all downloads file to complete
     await Task.WhenAll(file1, file2, file3);
