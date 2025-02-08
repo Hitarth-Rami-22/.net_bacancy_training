@@ -1,0 +1,15 @@
+C:\.net_bacancy_training\Day-7\Day-7\bin\Debug\net8.0\Day-7.exe
+C:\.net_bacancy_training\Day-7\Day-7\bin\Debug\net8.0\Day-7.deps.json
+C:\.net_bacancy_training\Day-7\Day-7\bin\Debug\net8.0\Day-7.runtimeconfig.json
+C:\.net_bacancy_training\Day-7\Day-7\bin\Debug\net8.0\Day-7.dll
+C:\.net_bacancy_training\Day-7\Day-7\bin\Debug\net8.0\Day-7.pdb
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.AssemblyInfoInputs.cache
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.AssemblyInfo.cs
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.csproj.CoreCompileInputs.cache
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.sourcelink.json
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.dll
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\refint\Day-7.dll
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.pdb
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\Day-7.genruntimeconfig.cache
+C:\.net_bacancy_training\Day-7\Day-7\obj\Debug\net8.0\ref\Day-7.dll
