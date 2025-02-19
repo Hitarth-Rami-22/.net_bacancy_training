@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.ValuesController",
+    "Method": "GetHello",
+    "RelativePath": "api/Values/LogRequest \u0026 ErroHandaling",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
