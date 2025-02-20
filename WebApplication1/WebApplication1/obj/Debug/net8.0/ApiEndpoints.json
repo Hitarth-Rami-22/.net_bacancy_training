@@ -10,7 +10,7 @@
       {
         "Name": "data",
         "Type": "System.Object",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
@@ -39,6 +39,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.ValuesController1",
+    "Method": "ReadFileData",
+    "RelativePath": "api/ValuesController1/read-file",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

@@ -68,6 +68,18 @@
           }
         }
       }
+    },
+    "/api/ValuesController1/read-file": {
+      "get": {
+        "tags": [
+          "ValuesController1"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": { }
