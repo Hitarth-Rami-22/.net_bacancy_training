@@ -23,6 +23,5 @@ public class ValuesController : ControllerBase
         {
             return false;
         }
-
     }
-}
+    }

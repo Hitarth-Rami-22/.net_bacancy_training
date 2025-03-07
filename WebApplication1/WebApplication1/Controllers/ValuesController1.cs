@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using Weather.NET;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace WebApplication1.Controllers
 {
